@@ -1,0 +1,19 @@
+html {
+  background-image: url('../img/background.webp');
+  font-family: 'Lato', sans-serif;
+}
+
+.content {
+  text-align: center;
+  margin-top: 10em;
+}
+
+.footer {
+  position: relative;
+  text-align: center;
+  bottom: -40em;
+}
+
+#header-inDev {
+  margin: 1em;
+}
